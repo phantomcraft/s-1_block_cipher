@@ -1,0 +1,15 @@
+This is the public reference implementation of an anonymous block cipher called S-1: https://en.wikipedia.org/wiki/S-1_block_cipher
+
+This code was taken from: https://groups.google.com/g/sci.crypt/c/vLtuBDoqPfc/m/jm6MshFbomgJ
+
+--------------------------------------------------------------------
+
+See also:
+=========
+
+The S-1 Algorithm: https://groups.google.com/g/sci.crypt/c/l4nsjVu27lU/m/LIycdmVxJZ0J
+Cryptanalysis of S-1: https://groups.google.com/g/sci.crypt.research/c/5N0zarU4XPs
+
+--------------------------------------------------------------------
+
+PS: I don't know the key and block sizes that this cipher uses and neither the number of rounds that should be used with different key/block sizes.
